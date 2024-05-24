@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor Jason</h1>
 <h3 align="center">A passionate developer from Massachusetts</h3>
 
-- 🔭 I’m currently working on [Wavelength](https://github.com/connor-jason/Wavelength)
+- 🔭 I’m currently working on [Minecraft AI Assistant](https://github.com/connor-jason/Minecraft-AI-Assistant)
 
 - 🌱 I’m currently learning **React!**
 
