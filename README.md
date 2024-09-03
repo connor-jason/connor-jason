@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on AI Class Schedule Generator (coming soon!)
 - 🌱 I’m currently learning **React!**
 
-- 👨‍💻 All of my projects are available at [https://connorjason.com/](https://connorjason.com/)
+- 👨‍💻 Learn about me at [https://connorjason.com/](https://connorjason.com/)
 
 - 📫 How to reach me **connorejason@gmail.com**
 
