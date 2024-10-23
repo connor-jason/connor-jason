@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Connor Jason</h1>
 <h3 align="center">A passionate developer from Massachusetts</h3>
 
-- 🔭 I’m currently working on AI Class Schedule Generator (coming soon!)
-- 🌱 I’m currently learning **React!**
+- 🔭 I’m currently working on AI Class Schedule Generator
+- 🌱 I’m currently learning **AI!**
 
 - 👨‍💻 Learn about me at [https://connorjason.com/](https://connorjason.com/)
 
